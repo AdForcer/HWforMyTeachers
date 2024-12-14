@@ -1,0 +1,8 @@
+Workers amount: 2
+
+ID: 0
+ Name: Sherlock Holmes
+ Age: 10
+ID: 1
+ Name: Zaza Zozo
+ Age: 90
